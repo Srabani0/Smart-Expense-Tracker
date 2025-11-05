@@ -76,7 +76,7 @@ While working on this project, I learned:
 1. Download the project or clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Smart-Expense-Tracker.git
+git clone https://github.com/Srabani0/Smart-Expense-Tracker.git
 Open the project folder
 
 Double click index.html to run in browser
